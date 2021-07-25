@@ -1,0 +1,29 @@
+<!-- 插值语法 -->
+<p>{{name+'你好啊'}}</p>
+<p>{{1+1}}</p>
+<p>{{name?1+1:name}}</p>
+<p>{{data}}</p>
+
+<!-- 属性绑定 -->
+<div [id]="'box'">属性绑定</div>
+<div [id]="box">属性绑定</div>
+<div [class]="'item'">class绑定</div>
+<div [class]="itemclass">class绑定</div>
+
+<!-- 类绑定 -->
+<h3 [class.h3-dom]="h3Dom">hello{{2+2}}</h3>
+<h3 [class]="h3class">多类名绑定</h3>
+<h3 [class]="{'h3-dom':true,'title-dom':false}">类名条件渲染</h3>
+<h3 [class]="['h3-dom','title-dom']">数组渲染</h3>
+
+<!-- 单一样式绑定 -->
+<h3 [style.width]="'800px'">单一样式绑定</h3>
+<h3 [style.color]="'red'">单一样式绑定</h3>
+<!-- 省略像素 -->
+<h3 [style.width.px]="'200'">单一样式绑定</h3>
+<!-- 多样式绑定 -->
+<h3 [style]="'background:red;color:#fff'">多样式绑定</h3>
+<!-- 以下两种无法显示 -->
+<!-- <h3 [style]="{'background':'red';'color':'#fff'}">多样式绑定</h3> -->
+
+<!-- <h3 [ngclass]="{'active':isActive}">ngclass渲染绑定</h3> -->

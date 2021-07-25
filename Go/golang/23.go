@@ -13,7 +13,7 @@ type Movie struct {
 }
 
 func main() {
-	movie := Movie{"喜剧之王", 1902, 10, []string{"星爷", "zhangbozhi"}}
+	movie := Movie{Title: "喜剧之王", Year: 1902, Price: 10, Actors: []string{"星爷", "zhangbozhi"}}
 	//编码的过程，结构体---->json
 	jsonStr, err := json.Marshal(movie)
 	if err != nil {
