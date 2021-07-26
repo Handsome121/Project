@@ -13,6 +13,7 @@ export class HelloComponent implements OnInit {
   h3class: string = 'h3-dom font-w string'
   data: Date = new Date
   isActive: boolean = true
+  isMax: boolean = true
   constructor() { }
 
   ngOnInit() {

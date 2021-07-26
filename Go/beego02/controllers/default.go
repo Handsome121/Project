@@ -1,7 +1,9 @@
 package controllers
 
 import (
+	"beego02/models"
 	"github.com/astaxie/beego"
+	"github.com/astaxie/beego/orm"
 )
 
 type ApiController struct {
@@ -9,7 +11,45 @@ type ApiController struct {
 }
 
 func (c *ApiController) Get() {
-	id := c.Ctx.Input.Param(":id")
-	c.Ctx.WriteString("api接口" + id)
+	/*//创建orm对象
+	o := orm.NewOrm()
+	//插入结构体对象
+	user := models.User{}
+	//对结构体对象赋值
+	user.Name = "111"
+	user.Pwd = "222"
+	//插入
+	_, err := o.Insert(&user)
+	if err != nil {
+		beego.Info("插入失败", err)
+		return
+	}
+	c.Ctx.WriteString("创建数据成功")*/
 
+	////有orm对象
+	//o := orm.NewOrm()
+	////查询的对象
+	//user := models.User{}
+	//user.Name="111"
+	////指定查询对象字段值
+	///*user.Id = 1
+	////查询
+	//err := o.Read(&user)*/
+	//err := o.Read(&user, "Name")
+	//if err != nil {
+	//	beego.Info("查询失败", err)
+	//	return
+	//}
+	//beego.Info("查询成功", user)
+	//c.Ctx.WriteString("查询数据成功")
+
+	o := orm.NewOrm()
+	user := models.User{}
+	user.Id = 1
+	_, err := o.Delete(&user)
+	if err != nil {
+		beego.Info("删除错误")
+		return
+	}
+	c.Ctx.WriteString("删除数据成功")
 }

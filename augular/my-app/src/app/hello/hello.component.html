@@ -23,7 +23,12 @@
 <h3 [style.width.px]="'200'">单一样式绑定</h3>
 <!-- 多样式绑定 -->
 <h3 [style]="'background:red;color:#fff'">多样式绑定</h3>
-<!-- 以下两种无法显示 -->
+<!-- 以下几种无法显示 -->
 <!-- <h3 [style]="{'background':'red';'color':'#fff'}">多样式绑定</h3> -->
 
 <!-- <h3 [ngclass]="{'active':isActive}">ngclass渲染绑定</h3> -->
+<!-- <h3 [ngstyle]="{'color':'red'}">ngstyle样式绑定</h3> -->
+
+<!-- 条件判断语法 -->
+<div *ngIf="isMax">isMax==false</div>
+<div *ngIf="!isMax">isMax==false</div>
