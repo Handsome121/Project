@@ -9,6 +9,8 @@
         <function importPath="fmt" name="Println" />
         <function importPath="fmt" name="Print" />
         <function importPath="github.com/astaxie/beego/orm" name="RegisterDataBase" />
+        <function importPath="github.com/astaxie/beego/orm" name="RegisterDriver" />
+        <function importPath="github.com/astaxie/beego/orm" name="RunSyncdb" />
       </functions>
     </inspection_tool>
   </profile>
