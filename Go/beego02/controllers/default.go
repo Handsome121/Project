@@ -1,7 +1,10 @@
 package controllers
 
 import (
+	"beego02/models"
+	"fmt"
 	"github.com/astaxie/beego"
+	"github.com/astaxie/beego/orm"
 )
 
 type ApiController struct {
@@ -71,13 +74,11 @@ func (c *ApiController) Get() {
 	//	c.Ctx.WriteString(fmt.Sprintf("Affect nums:", num))
 	//}
 
-	//o := orm.NewOrm()
-	//user := models.User{}
-	//err := o.Raw("SELECT name FROM user WHERE id = ?", 1).QueryRow(&user)
-	//if err != nil {
-	//	beego.Info("出错啦...")
-	//}
-	//c.Ctx.WriteString(fmt.Sprintf("user is %v", user))
+	o := orm.NewOrm()
+	user := models.User{}
+	r := o.Raw("SELECT id,name,pwd FROM user WHERE id = ?", 3)
+	r.QueryRow(&user)
+	c.Ctx.WriteString(fmt.Sprintf("user is %v", user))
 
 	//o := orm.NewOrm()
 	//var users []models.User
