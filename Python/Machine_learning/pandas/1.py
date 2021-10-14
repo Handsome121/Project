@@ -25,4 +25,4 @@ df2 = pd.DataFrame({'A': 1.,
 # print(df.to_numpy())
 # print(df.describe())
 # print(df.sort_index(axis=1, ascending=False))
-print(df.sort_values(by='B'))
+# print(df.sort_values(by='B'))
