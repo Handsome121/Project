@@ -14,7 +14,9 @@ func main() {
 	if err != nil {
 		fmt.Println("open file error=", err)
 	}
+
 	defer file.Close()
+
 	reader := bufio.NewReader(file)
 	for {
 		str, err := reader.ReadString('\n') //读到换行符就结束

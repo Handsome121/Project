@@ -6,8 +6,10 @@ import (
 )
 
 func main() {
+
 	file := "E:/Project/Go/123.txt"
 	content, err := ioutil.ReadFile(file)
+
 	if err != nil {
 		fmt.Printf("read file error=%v\n", err)
 	}
