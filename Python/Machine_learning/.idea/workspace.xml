@@ -20,122 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d948c6b5-6481-4f04-8913-d06553eb7ada" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/../../Go/222.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go/file/3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go/file/4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go/file/5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go/file/6.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go/file/7.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go/goconvey/1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go/goconvey/2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/QR.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go/123.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/file/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go/file/1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/file/2.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go/file/2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/aceld/zinx/@v/v1.0.0.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/aceld/zinx/@v/v1.0.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/aceld/zinx/@v/v1.0.0.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/astaxie/beego/@v/v1.12.3.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/astaxie/beego/@v/v1.12.3.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/astaxie/beego/@v/v1.12.3.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/beorn7/perks/@v/v1.0.1.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/beorn7/perks/@v/v1.0.1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/beorn7/perks/@v/v1.0.1.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/cespare/xxhash/v2/@v/v2.1.1.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/cespare/xxhash/v2/@v/v2.1.1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/cespare/xxhash/v2/@v/v2.1.1.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/elazarl/go-bindata-assetfs/@v/v1.0.0.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/go-sql-driver/mysql/@v/v1.6.0.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/go-sql-driver/mysql/@v/v1.6.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/go-sql-driver/mysql/@v/v1.6.0.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/golang/protobuf/@v/v1.5.2.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/golang/protobuf/@v/v1.5.2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/golang/protobuf/@v/v1.5.2.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/google/go-cmp/@v/v0.5.5.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/gopherjs/gopherjs/@v/v0.0.0-20181017120253-0766667cb4d1.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/hashicorp/golang-lru/@v/v0.5.4.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/hashicorp/golang-lru/@v/v0.5.4.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/hashicorp/golang-lru/@v/v0.5.4.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/jtolds/gls/@v/v4.20.0+incompatible.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/jtolds/gls/@v/v4.20.0+incompatible.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/jtolds/gls/@v/v4.20.0+incompatible.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/lib/pq/@v/v1.0.0.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/mattn/go-sqlite3/@v/v2.0.3+incompatible.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/matttproud/golang_protobuf_extensions/@v/v1.0.1.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/matttproud/golang_protobuf_extensions/@v/v1.0.1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/matttproud/golang_protobuf_extensions/@v/v1.0.1.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/pkg/errors/@v/v0.9.1.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/pkg/errors/@v/v0.9.1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/pkg/errors/@v/v0.9.1.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/v1.11.0.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/v1.11.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/v1.11.0.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/client_model/@v/v0.2.0.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/client_model/@v/v0.2.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/client_model/@v/v0.2.0.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/common/@v/v0.29.0.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/common/@v/v0.29.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/common/@v/v0.29.0.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/prometheus/procfs/@v/v0.7.1.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/shiena/ansicolor/@v/v0.0.0-20200904210342-c7312218db18.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/shiena/ansicolor/@v/v0.0.0-20200904210342-c7312218db18.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/shiena/ansicolor/@v/v0.0.0-20200904210342-c7312218db18.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/smartystreets/assertions/@v/v0.0.0-20180927180507-b2de0cb4f26d.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/smartystreets/assertions/@v/v0.0.0-20180927180507-b2de0cb4f26d.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/smartystreets/assertions/@v/v0.0.0-20180927180507-b2de0cb4f26d.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/smartystreets/goconvey/@v/v1.6.4.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/smartystreets/goconvey/@v/v1.6.4.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/smartystreets/goconvey/@v/v1.6.4.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/github.com/stretchr/testify/@v/v1.4.0.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/crypto/@v/v0.0.0-20210711020723-a769d52b0f97.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/crypto/@v/v0.0.0-20210711020723-a769d52b0f97.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/crypto/@v/v0.0.0-20210711020723-a769d52b0f97.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/net/@v/v0.0.0-20210716203947-853a461950ff.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/net/@v/v0.0.0-20210716203947-853a461950ff.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/net/@v/v0.0.0-20210716203947-853a461950ff.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20210630005230-0f9fa26af87c.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20210630005230-0f9fa26af87c.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20210630005230-0f9fa26af87c.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/text/@v/v0.3.6.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/text/@v/v0.3.6.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/text/@v/v0.3.6.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/tools/gopls/@v/list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/tools/gopls/@v/list.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/tools/gopls/@v/v0.7.1.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/golang.org/x/tools/gopls/@v/v0.7.1.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/google.golang.org/protobuf/@v/v1.27.1.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/google.golang.org/protobuf/@v/v1.27.1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/google.golang.org/protobuf/@v/v1.27.1.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/gopkg.in/check.v1/@v/v1.0.0-20200227125254-8fa46927fb4f.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/v2.4.0.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/v2.4.0.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/v2.4.0.ziphash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/lookup/github.com/aceld/zinx@v1.0.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/lookup/github.com/golang/protobuf@v1.3.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/lookup/golang.org/x/tools/gopls@v0.7.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/0/x002/906" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/0/x009/348" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/0/x023/839" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/0/x023/842" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/0/x023/842.p/96" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/0/x024/899" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/0/x025/797.p/237" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/1/011" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/1/036" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/1/093" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/1/093.p/34" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/1/097" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/1/100.p/197" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/2/000.p/100" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/2/000.p/93" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/cache/lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/github.com/aceld/zinx@v1.0.0/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/github.com/aceld/zinx@v1.0.0/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/mod/github.com/aceld/zinx@v1.0.0/examples/zinx_client/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go/pkg/sumdb/sum.golang.org/latest" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go/pkg/sumdb/sum.golang.org/latest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Go/go面试题/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Go/go面试题/2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Go/go面试题/3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Go/go面试题/4.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,6 +222,8 @@
       <workItem from="1637239143628" duration="1212000" />
       <workItem from="1637375669521" duration="391000" />
       <workItem from="1637384153977" duration="684000" />
+      <workItem from="1638279895573" duration="513000" />
+      <workItem from="1638704417111" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1634215845427</created>
