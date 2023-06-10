@@ -1,0 +1,7 @@
+blakema139@gmail.com
+JIe@003021
+
+
+
+openai.organization = "org-9sfxIQlbamkk2xIoV1dDquFq"
+openai.api_key = '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'

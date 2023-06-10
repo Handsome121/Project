@@ -1,0 +1,101 @@
+<!-- 插值语法 -->
+<p>{{name+'你好啊'}}</p>
+<p>{{1+1}}</p>
+<p>{{name?1+1:name}}</p>
+<p>{{data}}</p>
+
+<!-- 属性绑定 -->
+<div [id]="'box'">属性绑定</div>
+<div [id]="box">属性绑定</div>
+<div [class]="'item'">class绑定</div>
+<div [class]="itemclass">class绑定</div>
+
+<!-- 类绑定 -->
+<h3 [class.h3-dom]="h3Dom">hello{{2+2}}</h3>
+<h3 [class]="h3class">多类名绑定</h3>
+<h3 [class]="{'h3-dom':true,'title-dom':false}">类名条件渲染</h3>
+<h3 [class]="['h3-dom','title-dom']">数组渲染</h3>
+
+<!-- 单一样式绑定 -->
+<h3 [style.width]="'800px'">单一样式绑定</h3>
+<h3 [style.color]="'red'">单一样式绑定</h3>
+<!-- 省略像素 -->
+<h3 [style.width.px]="'200'">单一样式绑定</h3>
+<!-- 多样式绑定 -->
+<h3 [style]="'background:red;color:#fff'">多样式绑定</h3>
+<!-- 以下几种无法显示 -->
+<!-- <h3 [style]="{'background':'red';'color':'#fff'}">多样式绑定</h3> -->
+
+<!-- <h3 [ngclass]="{'active':isActive}">ngclass渲染绑定</h3> -->
+<!-- <h3 [ngstyle]="{'color':'red'}">ngstyle样式绑定</h3> -->
+
+<!-- 条件判断语法 -->
+<!-- <div *ngIf="isMax">isMax==false</div> -->
+<!-- <div *ngIf="!isMax">isMax==false</div> -->
+
+<!-- 解析完 -->
+<!-- <ng-template [ngIf]="isMax"> -->
+<!-- <div>isMax==true</div> -->
+<!-- </ng-template> -->
+
+<hr>
+<!-- 循环语句 -->
+<div *ngFor="let color of colors let i=index let odd=odd">
+  {{odd}}
+  {{i}}
+  {{color}}
+</div>
+<!-- 解析完 -->
+<!-- <ng-template ngFor let-color [ngForOf]="colors" let-i="index" let-odd="odd"> -->
+<!-- <div>{{odd}} {{i}} {{color}}</div> -->
+<!-- </ng-template> -->
+
+<hr>
+<div [ngSwitch]="type">
+  <div *ngSwitchCase="1">
+    type:1
+  </div>
+  <div *ngSwitchCase="2">
+    type:2
+  </div>
+  <div *ngSwitchDefault>
+    type!=1&&type!=2
+  </div>
+</div>
+
+
+<hr>
+<!-- 事件绑定 -->
+<!-- 模板引用变量 #声明-->
+<input #userName type="text" (input)="inputChange($event)" name="" id="">
+<button (click)="clickFun($event)">点击</button>
+
+<hr>
+<div #box>
+  <input #userName type="text" name="" id="">
+  <button (click)="getUserName(userName.value)">获取userName</button>
+</div>
+<hr>
+<!-- 双向绑定 ngModel只对表单元素有效-->
+<input [(ngModel)]="title" type="text">
+<p>标题{{title}}</p>
+<hr>
+
+<!-- 表单控件 -->
+年龄: <input type="text" [formControl]="age">
+<br>
+<p>年龄:{{age.value}}</p>
+<button (click)="ageChangeFun()">长大</button>
+<hr>
+<!-- 动态表单控件分组 -->
+<form [formGroup]="loginForm">
+  <label>
+    账号:
+    <input type="text" formControlName="userName">
+  </label>
+  <label>
+    密码:
+    <input type="text" formControlName="passWord">
+  </label>
+  <button (click)="submitFormFun()">提交</button>
+</form>
