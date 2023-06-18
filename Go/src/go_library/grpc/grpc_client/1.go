@@ -1,29 +1,40 @@
 package main
-
 import (
 	"context"
+	"flag"
 	"log"
+	"time"
 
+	pb "Go/go_library/grpc/proto/hellopb"
 	"google.golang.org/grpc"
+	"google.golang.org/grpc/credentials/insecure"
+)
 
-	pb "your-module-path/hello" // 导入生成的gRPC代码
+const (
+	defaultName = "world"
+)
+
+var (
+	addr = flag.String("addr", "localhost:8080", "the address to connect to")
+	name = flag.String("name", defaultName, "Name to greet")
 )
 
 func main() {
-	conn, err := grpc.Dial("localhost:50051", grpc.WithInsecure()) // 连接到gRPC服务器
+	flag.Parse()
+	// Set up a connection to the server.
+	conn, err := grpc.Dial(*addr, grpc.WithTransportCredentials(insecure.NewCredentials()))
 	if err != nil {
-		log.Fatalf("Failed to connect: %v", err)
+		log.Fatalf("did not connect: %v", err)
 	}
 	defer conn.Close()
+	c := pb.NewGreeterClient(conn)
 
-	client := pb.NewGreeterClient(conn) // 创建gRPC客户端
-
-	req := &pb.HelloRequest{Name: "John"} // 创建请求消息
-
-	resp, err := client.SayHello(context.Background(), req) // 调用远程的gRPC服务
+	// Contact the server and print out its response.
+	ctx, cancel := context.WithTimeout(context.Background(), time.Second)
+	defer cancel()
+	r, err := c.SayHello(ctx, &pb.HelloRequest{Name: *name})
 	if err != nil {
-		log.Fatalf("Failed to say hello: %v", err)
+		log.Fatalf("could not greet: %v", err)
 	}
-
-	log.Println("Response:", resp.GetMessage()) // 打印响应消息
+	log.Printf("Greeting: %s", r.GetMessage())
 }

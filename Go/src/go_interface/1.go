@@ -1,7 +1,8 @@
 package main
 
-func main() {
-	/*
+import "fmt"
+
+/*
 	    1、明确需要抽象的功能或行为： 首先，确定你需要抽象的功能或行为，这些功能或行为应该适用于多个具体类型。
 		例如，你可能需要一个通用的日志记录功能、数据存储功能或网络请求功能。
 
@@ -24,5 +25,51 @@ func main() {
 		确保它们正确实现了接口定义的行为。
 
 	    根据需要调整接口定义： 随着代码的演化和需求的变化，你可能需要对接口进行调整。这可能涉及添加新的方法、调整方法的参数或返回类型等。根据需要进行接口的迭代和演进。
-	*/
+*/
+// 定义接口
+type Shape interface {
+	Area() float64
+	Perimeter() float64
+}
+
+// 定义矩形结构体
+type Rectangle struct {
+	Width  float64
+	Height float64
+}
+
+// 矩形结构体实现接口中的方法
+func (r *Rectangle) Area() float64 {
+	return r.Width * r.Height
+}
+
+func (r *Rectangle) Perimeter() float64 {
+	return 2 * (r.Width + r.Height)
+}
+
+// 定义圆形结构体
+type Circle struct {
+	Radius float64
+}
+
+// 圆形结构体实现接口中的方法
+func (c *Circle) Area() float64 {
+	return 3.14 * c.Radius * c.Radius
+}
+
+func (c *Circle) Perimeter() float64 {
+	return 2 * 3.14 * c.Radius
+}
+
+// 函数接受接口类型作为参数
+func PrintShapeInfo(s Shape) {
+	fmt.Printf("Area: %f\n", s.Area())
+	fmt.Printf("Perimeter: %f\n", s.Perimeter())
+}
+
+func main() {
+	rect := Rectangle{Width: 4, Height: 5}
+	circle := Circle{Radius: 3}
+	PrintShapeInfo(&rect)
+	PrintShapeInfo(&circle)
 }
