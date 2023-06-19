@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:/SoftWare/GO" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2R0oyhulLRmxgjqpqd4gXdtUMWJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Go\src\design_pattern\proto" />
+      <recent name="E:\Project\Go\src\golibrary\grpc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build Go/go_library/type0">
+    <configuration name="go build Go/go_core_programming/Concurrent" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/go_core_programming/Concurrent/8.go" />
+      <package value="Go/go_core_programming/Concurrent" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Go/go_library/type0" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/go_library/type0/closure.go" />
+      <package value="Go/go_library/type0" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAdd in Go/go_common_standard_library/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src/go_common_standard_library/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Go/go_common_standard_library/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAdd$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Go/go_library/type0" />
+        <item itemvalue="Go Test.TestAdd in Go/go_common_standard_library/test" />
+        <item itemvalue="Go Build.go build Go/go_core_programming/Concurrent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="247" key="#Go_Modules" timestamp="1686396667320">
+      <screen x="0" y="0" width="1536" height="827" />
+    </state>
+    <state x="561" y="247" key="#Go_Modules/0.0.1536.827@0.0.1536.827" timestamp="1686396667320" />
+    <state x="645" y="249" key="#Notifications" timestamp="1686925115153">
+      <screen x="0" y="0" width="1536" height="827" />
+    </state>
+    <state x="645" y="249" key="#Notifications/0.0.1536.827@0.0.1536.827" timestamp="1686925115153" />
+    <state x="499" y="203" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1686992862353">
+      <screen x="0" y="0" width="1536" height="827" />
+    </state>
+    <state x="499" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.827@0.0.1536.827" timestamp="1686992862353" />
+    <state x="447" y="19" key="#go_build_Go/go_core_programming/Concurrent" timestamp="1687082726331">
+      <screen x="0" y="0" width="1536" height="827" />
+    </state>
+    <state x="447" y="19" key="#go_build_Go/go_core_programming/Concurrent/0.0.1536.827@0.0.1536.827" timestamp="1687082726331" />
+    <state x="447" y="19" key="#go_build_Go/go_library/type0" timestamp="1687183352719">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="19" key="#go_build_Go/go_library/type0/0.0.1536.834@0.0.1536.834" timestamp="1687183352719" />
+    <state x="618" y="66" key="EnvironmentVariablesDialog" timestamp="1686929845834">
+      <screen x="0" y="0" width="1536" height="827" />
+    </state>
+    <state x="618" y="66" key="EnvironmentVariablesDialog/0.0.1536.827@0.0.1536.827" timestamp="1686929845834" />
+    <state width="1478" height="200" key="GridCell.Tab.0.bottom" timestamp="1687184223489">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="200" key="GridCell.Tab.0.bottom/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
+    <state width="1478" height="200" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1687184223489" />
+    <state width="1478" height="200" key="GridCell.Tab.0.center" timestamp="1687184223489">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="200" key="GridCell.Tab.0.center/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
+    <state width="1478" height="200" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1687184223489" />
+    <state width="1478" height="200" key="GridCell.Tab.0.left" timestamp="1687184223489">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="200" key="GridCell.Tab.0.left/0.0.1536.827@0.0.1536.827" timestamp="1687082745545" />
+    <state width="1478" height="200" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1687184223489" />
+    <state width="1478" height="200" key="GridCell.Tab.0.right" timestamp="1687184223489">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
+    <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1687184223489" />
+    <state x="262" y="58" key="SettingsEditor" timestamp="1686929895834">
+      <screen x="0" y="0" width="1536" height="827" />
+    </state>
+    <state x="262" y="58" key="SettingsEditor/0.0.1536.827@0.0.1536.827" timestamp="1686929895834" />
+  </component>
+</project>
