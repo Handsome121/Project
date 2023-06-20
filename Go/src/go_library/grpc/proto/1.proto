@@ -4,7 +4,7 @@ option go_package = "./hellopb";
 // The greeting service definition.
 service Greeter {
     // Sends a greeting
-    rpc SayHello (HelloRequest) returns (HelloReply) {}
+    rpc SayHello (HelloRequest) returns (stream HelloReply) {}
   }
 
   // The request message containing the user's name.

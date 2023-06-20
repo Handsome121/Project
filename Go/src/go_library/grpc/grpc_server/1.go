@@ -1,13 +1,14 @@
 package main
 
 import (
-	pb "Go/go_library/grpc/proto/hellopb"
-	"context"
+	pb "Go/go_library/grpc/proto/hellopb/hellopb"
 	"flag"
 	"fmt"
 	"google.golang.org/grpc"
 	"log"
 	"net"
+	"strconv"
+	"time"
 )
 
 var (
@@ -18,8 +19,15 @@ type server struct {
 	pb.UnimplementedGreeterServer
 }
 
-func (*server) SayHello(ctx context.Context, req *pb.HelloRequest) (*pb.HelloReply, error) {
-	return &pb.HelloReply{Message: "hello " + req.GetName()}, nil
+func (*server) SayHello(req *pb.HelloRequest, stream pb.Greeter_SayHelloServer) error {
+	for i := 0; i < 10; i++ {
+		message := "Message " + strconv.Itoa(i)
+		if err := stream.Send(&pb.HelloReply{Message: message}); err != nil {
+			return err
+		}
+		time.Sleep(time.Second)
+	}
+	return nil
 }
 
 func main() {

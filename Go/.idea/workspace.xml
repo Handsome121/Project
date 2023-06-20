@@ -20,6 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/1.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/proto/1.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/hellopb/1.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/hellopb/1_grpc.pb.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +72,16 @@
       <recent name="E:\Project\Go\src\golibrary\grpc" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build Go/go_library/type0">
+  <component name="RunManager" selected="Go Build.go build Go/go_core_programming/Concurrent (1)">
+    <configuration name="go build Go/go_core_programming/Concurrent (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/go_core_programming/Concurrent/9.go" />
+      <package value="Go/go_core_programming/Concurrent" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build Go/go_core_programming/Concurrent" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$/src" />
@@ -85,6 +100,15 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build notice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src/notice" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/notice/4.go" />
+      <package value="notice" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestAdd in Go/go_common_standard_library/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$/src/go_common_standard_library/test" />
@@ -98,6 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Go/go_core_programming/Concurrent (1)" />
+        <item itemvalue="Go Build.go build notice" />
         <item itemvalue="Go Build.go build Go/go_library/type0" />
         <item itemvalue="Go Test.TestAdd in Go/go_common_standard_library/test" />
         <item itemvalue="Go Build.go build Go/go_core_programming/Concurrent" />
@@ -123,6 +149,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
+    <state x="532" y="96" width="471" height="653" key="#Build_Tags_&amp;_Vendoring" timestamp="1687269358235">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="532" y="96" width="471" height="653" key="#Build_Tags_&amp;_Vendoring/0.0.1536.834@0.0.1536.834" timestamp="1687269358235" />
     <state x="561" y="247" key="#Go_Modules" timestamp="1686396667320">
       <screen x="0" y="0" width="1536" height="827" />
     </state>
@@ -139,34 +169,42 @@
       <screen x="0" y="0" width="1536" height="827" />
     </state>
     <state x="447" y="19" key="#go_build_Go/go_core_programming/Concurrent/0.0.1536.827@0.0.1536.827" timestamp="1687082726331" />
+    <state x="447" y="19" key="#go_build_Go/go_core_programming/Concurrent_(1)" timestamp="1687271235810">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="19" key="#go_build_Go/go_core_programming/Concurrent_(1)/0.0.1536.834@0.0.1536.834" timestamp="1687271235810" />
     <state x="447" y="19" key="#go_build_Go/go_library/type0" timestamp="1687183352719">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="447" y="19" key="#go_build_Go/go_library/type0/0.0.1536.834@0.0.1536.834" timestamp="1687183352719" />
+    <state x="447" y="19" key="#go_build_notice" timestamp="1687264818631">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="19" key="#go_build_notice/0.0.1536.834@0.0.1536.834" timestamp="1687264818631" />
     <state x="618" y="66" key="EnvironmentVariablesDialog" timestamp="1686929845834">
       <screen x="0" y="0" width="1536" height="827" />
     </state>
     <state x="618" y="66" key="EnvironmentVariablesDialog/0.0.1536.827@0.0.1536.827" timestamp="1686929845834" />
-    <state width="1478" height="200" key="GridCell.Tab.0.bottom" timestamp="1687184223489">
+    <state width="1478" height="200" key="GridCell.Tab.0.bottom" timestamp="1687271560697">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.bottom/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
-    <state width="1478" height="200" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1687184223489" />
-    <state width="1478" height="200" key="GridCell.Tab.0.center" timestamp="1687184223489">
+    <state width="1478" height="200" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1687271560697" />
+    <state width="1478" height="200" key="GridCell.Tab.0.center" timestamp="1687271560697">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.center/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
-    <state width="1478" height="200" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1687184223489" />
-    <state width="1478" height="200" key="GridCell.Tab.0.left" timestamp="1687184223489">
+    <state width="1478" height="200" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1687271560697" />
+    <state width="1478" height="200" key="GridCell.Tab.0.left" timestamp="1687271560696">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.left/0.0.1536.827@0.0.1536.827" timestamp="1687082745545" />
-    <state width="1478" height="200" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1687184223489" />
-    <state width="1478" height="200" key="GridCell.Tab.0.right" timestamp="1687184223489">
+    <state width="1478" height="200" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1687271560696" />
+    <state width="1478" height="200" key="GridCell.Tab.0.right" timestamp="1687271560697">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
-    <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1687184223489" />
+    <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1687271560697" />
     <state x="262" y="58" key="SettingsEditor" timestamp="1686929895834">
       <screen x="0" y="0" width="1536" height="827" />
     </state>
