@@ -7,27 +7,17 @@ import (
 
 type WorkPool struct {
 	JobQueue chan func()
-	StopChan chan struct{}
 	Wait     sync.WaitGroup
 }
 
 func (p *WorkPool) Start() {
+	p.Wait.Add(cap(p.JobQueue))
 	for i := 0; i < cap(p.JobQueue); i++ {
 		go func() {
-			for {
-				select {
-				case job, ok := <-p.JobQueue:
-					if !ok {
-						// 任务队列已关闭，退出循环
-						return
-					}
-					job()
-					p.Wait.Done()
-				case <-p.StopChan:
-					// 收到停止信号，退出循环
-					return
-				}
+			for j := range p.JobQueue {
+				j()
 			}
+			p.Wait.Done()
 		}()
 	}
 }
@@ -35,11 +25,9 @@ func (p *WorkPool) Start() {
 func (p *WorkPool) Stop() {
 	close(p.JobQueue)
 	p.Wait.Wait()
-	close(p.StopChan)
 }
 
 func (p *WorkPool) Submit() {
-	p.Wait.Add(1)
 	p.JobQueue <- func() {
 		fmt.Println("123")
 	}
