@@ -11,7 +11,6 @@ type WorkPool struct {
 }
 
 func (p *WorkPool) Start() {
-	p.Wait.Add(cap(p.JobQueue))
 	for i := 0; i < cap(p.JobQueue); i++ {
 		go func() {
 			for j := range p.JobQueue {
@@ -28,6 +27,7 @@ func (p *WorkPool) Stop() {
 }
 
 func (p *WorkPool) Submit() {
+	p.Wait.Add(1)
 	p.JobQueue <- func() {
 		fmt.Println("123")
 	}
@@ -40,5 +40,4 @@ func main() {
 	}
 	pool.Start()
 	pool.Submit()
-
 }

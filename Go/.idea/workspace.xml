@@ -21,93 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/accesscontextmanager/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/accesscontextmanager/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/aiplatform/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/aiplatform/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/analytics/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/analytics/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/apigeeregistry/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/apigeeregistry/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/apikeys/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/apikeys/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/appengine/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/appengine/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/area120/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/area120/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/artifactregistry/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/artifactregistry/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/asset/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/asset/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/beyondcorp/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/beyondcorp/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/bigquery/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/bigquery/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/billing/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/billing/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/channel/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/channel/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/cloudbuild/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/cloudbuild/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/cloudtasks/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/cloudtasks/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/compute/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/compute/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/container/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/container/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/containeranalysis/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/containeranalysis/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/datacatalog/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/datacatalog/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/dataform/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/dataform/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/dataplex/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/dataplex/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/datastore/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/datastore/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/datastream/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/datastream/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/deploy/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/deploy/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/dialogflow/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/dialogflow/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/documentai/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/documentai/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/edgecontainer/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/edgecontainer/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/eventarc/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/eventarc/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/filestore/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/filestore/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/functions/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/functions/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/gkehub/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/gkehub/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/iam/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/iam/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/iap/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/iap/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/iot/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/iot/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/kms/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/kms/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/maps/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/maps/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/monitoring/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/monitoring/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/networkconnectivity/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/networkconnectivity/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/networksecurity/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/networksecurity/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/notebooks/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/notebooks/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/policytroubleshooter/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/policytroubleshooter/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/privatecatalog/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/privatecatalog/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/pubsub/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/pubsub/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/pubsublite/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/pubsublite/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/recaptchaenterprise/v2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/recaptchaenterprise/v2/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/resourcemanager/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/resourcemanager/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/run/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/run/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/scheduler/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/scheduler/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/security/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/security/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/securitycenter/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/securitycenter/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/servicecontrol/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/servicecontrol/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/servicedirectory/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/servicedirectory/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/servicemanagement/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/servicemanagement/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/serviceusage/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/serviceusage/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/spanner/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/spanner/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/speech/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/speech/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/storage/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/storage/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/storagetransfer/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/storagetransfer/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/trace/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/trace/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/translate/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/translate/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/video/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/video/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/vision/v2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/vision/v2/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/vmmigration/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/vmmigration/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/vmwareengine/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/cloud.google.com/go/vmwareengine/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/googleapis/gax-go/v2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/googleapis/gax-go/v2/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/grpc-ecosystem/grpc-gateway/v2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/grpc-ecosystem/grpc-gateway/v2/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/kr/pretty/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/kr/pretty/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/oauth2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/oauth2/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/term/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/term/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/text/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/text/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/time/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/time/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/api/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/api/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/genproto/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/genproto/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/grpc/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/grpc/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/protobuf/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/6.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/7.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/7.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/9.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/9.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/1.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/proto/1.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/hellopb/hellopb/1.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/hellopb/hellopb/1_grpc.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_expert_programming/datastructures/channel/0.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_expert_programming/datastructures/channel/0.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_expert_programming/datastructures/slice/0.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_expert_programming/datastructures/slice/0.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +72,7 @@
       <recent name="E:\Project\Go\src\golibrary\grpc" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build Go/go_core_programming/Concurrent (1)">
+  <component name="RunManager" selected="Go Build.go build Go/go_core_programming/Concurrent (2)">
     <configuration name="go build Go/go_core_programming/Concurrent (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$/src" />
@@ -164,11 +82,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Go/go_core_programming/Concurrent" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Go/go_core_programming/Concurrent (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/go_core_programming/Concurrent/8.go" />
+      <filePath value="$PROJECT_DIR$/src/go_core_programming/Concurrent/10.go" />
       <package value="Go/go_core_programming/Concurrent" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -204,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Go/go_core_programming/Concurrent (2)" />
         <item itemvalue="Go Build.go build Go/go_core_programming/Concurrent (1)" />
         <item itemvalue="Go Build.go build notice" />
         <item itemvalue="Go Build.go build Go/go_library/type0" />
         <item itemvalue="Go Test.TestAdd in Go/go_common_standard_library/test" />
-        <item itemvalue="Go Build.go build Go/go_core_programming/Concurrent" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +173,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="447" y="19" key="#go_build_Go/go_core_programming/Concurrent_(1)/0.0.1536.834@0.0.1536.834" timestamp="1687271235810" />
+    <state x="447" y="19" key="#go_build_Go/go_core_programming/Concurrent_(2)" timestamp="1688044665534">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="19" key="#go_build_Go/go_core_programming/Concurrent_(2)/0.0.1536.834@0.0.1536.834" timestamp="1688044665534" />
     <state x="447" y="19" key="#go_build_Go/go_library/type0" timestamp="1687183352719">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -267,26 +189,26 @@
       <screen x="0" y="0" width="1536" height="827" />
     </state>
     <state x="618" y="66" key="EnvironmentVariablesDialog/0.0.1536.827@0.0.1536.827" timestamp="1686929845834" />
-    <state width="1478" height="200" key="GridCell.Tab.0.bottom" timestamp="1687272134718">
+    <state width="1478" height="200" key="GridCell.Tab.0.bottom" timestamp="1688050749507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.bottom/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
-    <state width="1478" height="200" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1687272134718" />
-    <state width="1478" height="200" key="GridCell.Tab.0.center" timestamp="1687272134718">
+    <state width="1478" height="200" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1688050749507" />
+    <state width="1478" height="200" key="GridCell.Tab.0.center" timestamp="1688050749507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.center/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
-    <state width="1478" height="200" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1687272134718" />
-    <state width="1478" height="200" key="GridCell.Tab.0.left" timestamp="1687272134718">
+    <state width="1478" height="200" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1688050749507" />
+    <state width="1478" height="200" key="GridCell.Tab.0.left" timestamp="1688050749507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.left/0.0.1536.827@0.0.1536.827" timestamp="1687082745545" />
-    <state width="1478" height="200" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1687272134718" />
-    <state width="1478" height="200" key="GridCell.Tab.0.right" timestamp="1687272134718">
+    <state width="1478" height="200" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1688050749507" />
+    <state width="1478" height="200" key="GridCell.Tab.0.right" timestamp="1688050749507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
-    <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1687272134718" />
+    <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1688050749507" />
     <state x="262" y="58" key="SettingsEditor" timestamp="1687788612143">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

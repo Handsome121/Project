@@ -12,6 +12,7 @@ package main
 
 import (
 	"fmt"
+	"sync"
 )
 
 //工作池的goroutine数目
@@ -88,11 +89,9 @@ func DistrubuteTask(taskchan <-chan task, workers int, done chan struct{}) {
 }
 
 //goroutine处理具体工作，并将结果发送到结果通道
-func ProcessTask(taskchan <-chan task, done chan struct{}) {
-	for t := range taskchan {
-		t.do()
-	}
-	done <- struct{}{}
+func ProcessTask(t task, wait *sync.WaitGroup) {
+	t.do()
+	wait.Done()
 }
 
 // 通过done channel同步等待所有工作goroutine的结束，然后关闭结果chan
