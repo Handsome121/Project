@@ -1,48 +1,36 @@
-/*
-服务器流式
-*/
 package main
 
 import (
-	pb "Go/go_library/grpc/proto/hellopb/hellopb"
-	"flag"
-	"fmt"
-	"google.golang.org/grpc"
+	"context"
 	"log"
 	"net"
-	"strconv"
-	"time"
+
+	"google.golang.org/grpc"
+
+	pb "Go/go_library/grpc/proto" // 替换为你的包名
+
 )
 
-var (
-	port = flag.Int("port", 8080, "The server port")
-)
-
-type server struct {
+type greeterServer struct {
 	pb.UnimplementedGreeterServer
 }
 
-func (*server) SayHello(req *pb.HelloRequest, stream pb.Greeter_SayHelloServer) error {
-	for i := 0; i < 10; i++ {
-		message := "Message " + strconv.Itoa(i)
-		if err := stream.Send(&pb.HelloReply{Message: message}); err != nil {
-			return err
-		}
-		time.Sleep(time.Second)
-	}
-	return nil
+func (s *greeterServer) SayHello(ctx context.Context, req *pb.HelloRequest) (*pb.HelloResponse, error) {
+	name := req.GetName()
+	message := "Hello, " + name
+	return &pb.HelloResponse{Message: message}, nil
 }
 
 func main() {
-	flag.Parse()
-	lis, err := net.Listen("tcp", fmt.Sprintf("0.0.0.0:%d", *port))
+	lis, err := net.Listen("tcp", ":50051")
 	if err != nil {
 		log.Fatalf("failed to listen: %v", err)
 	}
 
 	s := grpc.NewServer()
-	pb.RegisterGreeterServer(s, &server{})
-	log.Printf("server listening at %v", lis.Addr())
+	pb.RegisterGreeterServer(s, &greeterServer{})
+
+	log.Println("Server started on port 50051...")
 	if err := s.Serve(lis); err != nil {
 		log.Fatalf("failed to serve: %v", err)
 	}
