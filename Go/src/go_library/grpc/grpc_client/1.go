@@ -5,6 +5,7 @@ import (
 	"context"
 	"fmt"
 	"google.golang.org/grpc"
+	"google.golang.org/grpc/status"
 	"io"
 	"sync"
 	"time"
@@ -25,16 +26,21 @@ func (s *server) Start() {
 
 	s.client = pb.NewGreeterClient(s.conn)
 }
+
 // 单向模式
 func (s *server) SayHello() {
 	req := &pb.StreamReqData{Data: "hello"}
 
 	resp, err := s.client.SayHello(context.Background(), req)
 	if err != nil {
-		fmt.Printf("failed to call SayHello: %v", err)
+		if statusInfo, ok := status.FromError(err); ok {
+			fmt.Println(statusInfo.Code())
+			fmt.Println(statusInfo.Message())
+		}
 	}
 	fmt.Println("Response:", resp)
 }
+
 // 客户端流模式
 func (s *server) PutStream() {
 	req := &pb.StreamReqData{Data: "hello"}
@@ -49,6 +55,7 @@ func (s *server) PutStream() {
 		}
 	}
 }
+
 //服务端流模式
 func (s *server) GetStream() {
 	req := &pb.StreamReqData{Data: "hello"}
@@ -66,41 +73,40 @@ func (s *server) GetStream() {
 		fmt.Println(data)
 	}
 }
+
 //双向流模式
-func (s *server)AllStream(){
+func (s *server) AllStream() {
 	req := &pb.StreamReqData{Data: "hello"}
 
-	allStream , _ := s.client.AllStream(context.Background())
+	allStream, _ := s.client.AllStream(context.Background())
 	wg := sync.WaitGroup{}
 	wg.Add(2)
 	defer wg.Wait()
 
 	go func() {
-		defer  wg.Done()
-		for i:=0;i<10;i++  {
-			StreamResData,_ := allStream.Recv()
-			fmt.Println("AllStream收到服务端消息",StreamResData.Data)
+		defer wg.Done()
+		for i := 0; i < 10; i++ {
+			StreamResData, _ := allStream.Recv()
+			fmt.Println("AllStream收到服务端消息", StreamResData.Data)
 		}
 	}()
 
 	go func() {
-		defer  wg.Done()
+		defer wg.Done()
 		req.Data = "AllStream：我是客户端"
-		for i:=0;i<10;i++ {
+		for i := 0; i < 10; i++ {
 			_ = allStream.Send(req)
 			time.Sleep(time.Second)
 		}
 	}()
 }
 
-
-
 func main() {
 	var server server
 
 	server.Start()
-	//server.SayHello()
+	server.SayHello()
 	//server.PutStream()
 	//server.GetStream()
-	server.AllStream()
+	//server.AllStream()
 }

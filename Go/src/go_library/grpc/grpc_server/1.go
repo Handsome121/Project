@@ -3,6 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
+	"google.golang.org/grpc/codes"
+	"google.golang.org/grpc/status"
 	"net"
 	"sync"
 	"time"
@@ -20,9 +22,10 @@ type server struct {
 // 单相模式
 func (s *server) SayHello(ctx context.Context, req *pb.StreamReqData) (*pb.StreamResData, error) {
 	fmt.Println("server SayHello run")
-	return &pb.StreamResData{
-		Data: req.Data + " from server",
-	}, nil
+	//return &pb.StreamResData{
+	//	Data: req.Data + " from server",
+	//}, nil
+	return nil,status.Error(codes.Internal,"internal error")
 }
 
 // 客户端流模式
