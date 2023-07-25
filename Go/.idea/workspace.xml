@@ -20,36 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/alecthomas/units/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/alecthomas/units/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/fsnotify/fsnotify/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/fsnotify/fsnotify/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-logfmt/logfmt/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/go-logfmt/logfmt/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gogo/protobuf/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gogo/protobuf/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/json-iterator/go/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/json-iterator/go/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/julienschmidt/httprouter/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/julienschmidt/httprouter/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/konsorten/go-windows-terminal-sequences/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/konsorten/go-windows-terminal-sequences/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/kr/pretty/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/kr/pretty/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mattn/go-isatty/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mattn/go-isatty/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/reflect2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/modern-go/reflect2/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mwitkow/go-conntrack/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/mwitkow/go-conntrack/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/pelletier/go-toml/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/pelletier/go-toml/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/common/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/common/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/procfs/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/prometheus/procfs/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/sirupsen/logrus/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/sirupsen/logrus/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/spf13/afero/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/spf13/afero/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/stretchr/testify/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/crypto/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/net/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/sys/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/tools/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/golang.org/x/tools/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/grpc/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/google.golang.org/grpc/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/1.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,14 +65,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Go\src\go_library\grpc\proto\1" />
       <recent name="E:\Project\Go\src\go_library\grpc\proto" />
       <recent name="E:\Project\Go\src\go_library\grpc\proto\proto" />
       <recent name="E:\Project\Go\src\go_design_pattern" />
       <recent name="E:\Project\Go\src\go_design_pattern\creator" />
-      <recent name="E:\Project\Go\src\design_pattern\proto" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 2.go (1)">
+  <component name="RunManager" selected="Go Build.go build Go/go_library/grpc/grpc_server">
     <configuration name="go build 1.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$/src" />
@@ -116,19 +89,20 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$/src" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/go_library/valiator1/4.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build 6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/src/go_library/valiator1/6.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Go/go_library/grpc/grpc_server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/go_library/grpc/grpc_server/2.go" />
+      <package value="Go/go_library/grpc/grpc_server" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -143,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Go/go_library/grpc/grpc_server" />
         <item itemvalue="Go Build.go build 2.go (1)" />
         <item itemvalue="Go Build.go build 1.go (1)" />
         <item itemvalue="Go Build.go build Go/go_library/viper1" />
         <item itemvalue="Go Build.go build 6.go" />
-        <item itemvalue="Go Build.go build 4.go" />
       </list>
     </recent_temporary>
   </component>
@@ -223,30 +197,30 @@
       <screen x="0" y="0" width="2048" height="1120" />
     </state>
     <state x="752" y="257" key="FileChooserDialogImpl/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690005217793" />
-    <state width="1995" height="283" key="GridCell.Tab.0.bottom" timestamp="1690118475538">
+    <state width="1995" height="283" key="GridCell.Tab.0.bottom" timestamp="1690297073892">
       <screen x="0" y="0" width="2048" height="1120" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.bottom/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
     <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1688824223762" />
-    <state width="1995" height="283" key="GridCell.Tab.0.bottom/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690118475538" />
-    <state width="1995" height="283" key="GridCell.Tab.0.center" timestamp="1690118475538">
+    <state width="1995" height="283" key="GridCell.Tab.0.bottom/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690297073892" />
+    <state width="1995" height="283" key="GridCell.Tab.0.center" timestamp="1690297073892">
       <screen x="0" y="0" width="2048" height="1120" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.center/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
     <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1688824223762" />
-    <state width="1995" height="283" key="GridCell.Tab.0.center/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690118475538" />
-    <state width="1995" height="283" key="GridCell.Tab.0.left" timestamp="1690118475538">
+    <state width="1995" height="283" key="GridCell.Tab.0.center/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690297073892" />
+    <state width="1995" height="283" key="GridCell.Tab.0.left" timestamp="1690297073892">
       <screen x="0" y="0" width="2048" height="1120" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.left/0.0.1536.827@0.0.1536.827" timestamp="1687082745545" />
     <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1688824223762" />
-    <state width="1995" height="283" key="GridCell.Tab.0.left/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690118475538" />
-    <state width="1995" height="283" key="GridCell.Tab.0.right" timestamp="1690118475538">
+    <state width="1995" height="283" key="GridCell.Tab.0.left/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690297073892" />
+    <state width="1995" height="283" key="GridCell.Tab.0.right" timestamp="1690297073892">
       <screen x="0" y="0" width="2048" height="1120" />
     </state>
     <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
     <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1688824223762" />
-    <state width="1995" height="283" key="GridCell.Tab.0.right/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690118475538" />
+    <state width="1995" height="283" key="GridCell.Tab.0.right/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690297073892" />
     <state x="349" y="78" key="SettingsEditor" timestamp="1690004846143">
       <screen x="0" y="0" width="2048" height="1120" />
     </state>

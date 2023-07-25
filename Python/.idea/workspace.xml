@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02b43001-971b-4298-bdc8-62d9e072f125" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Go/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/alecthomas/units/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/alecthomas/units/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/fsnotify/fsnotify/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/fsnotify/fsnotify/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/go-logfmt/logfmt/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/go-logfmt/logfmt/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/gogo/protobuf/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/gogo/protobuf/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/json-iterator/go/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/json-iterator/go/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/julienschmidt/httprouter/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/julienschmidt/httprouter/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/konsorten/go-windows-terminal-sequences/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/konsorten/go-windows-terminal-sequences/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/kr/pretty/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/kr/pretty/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/mattn/go-isatty/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/mattn/go-isatty/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/modern-go/reflect2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/modern-go/reflect2/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/mwitkow/go-conntrack/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/mwitkow/go-conntrack/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/pelletier/go-toml/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/pelletier/go-toml/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/prometheus/client_golang/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/prometheus/common/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/prometheus/common/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/prometheus/procfs/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/prometheus/procfs/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/sirupsen/logrus/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/sirupsen/logrus/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/spf13/afero/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/spf13/afero/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/stretchr/testify/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/github.com/stretchr/testify/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/golang.org/x/crypto/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/golang.org/x/crypto/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/golang.org/x/net/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/golang.org/x/net/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/golang.org/x/sys/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/golang.org/x/sys/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/golang.org/x/tools/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/golang.org/x/tools/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/google.golang.org/grpc/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/google.golang.org/grpc/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/pkg/sumdb/sum.golang.org/latest" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/pkg/sumdb/sum.golang.org/latest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/src/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/src/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI/openai-quickstart-python/.env.example" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2SyTwpkocKdZ3jRuv8IpofWnavb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02b43001-971b-4298-bdc8-62d9e072f125" name="Default Changelist" comment="" />
+      <created>1690118061561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690118061561</updated>
+      <workItem from="1690118064515" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
