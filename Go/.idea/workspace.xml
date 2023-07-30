@@ -21,9 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/1.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +58,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -115,15 +120,20 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go Build.go build Go/go_library/grpc/grpc_server" />
-        <item itemvalue="Go Build.go build 2.go (1)" />
-        <item itemvalue="Go Build.go build 1.go (1)" />
-        <item itemvalue="Go Build.go build Go/go_library/viper1" />
-        <item itemvalue="Go Build.go build 6.go" />
-      </list>
-    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="" />
+      <created>1690704544711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690704544711</updated>
+      <workItem from="1690704546733" duration="31000" />
+    </task>
+    <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
@@ -193,10 +203,11 @@
       <screen x="0" y="0" width="1536" height="827" />
     </state>
     <state x="618" y="66" key="EnvironmentVariablesDialog/0.0.1536.827@0.0.1536.827" timestamp="1686929845834" />
-    <state x="752" y="257" key="FileChooserDialogImpl" timestamp="1690005217793">
-      <screen x="0" y="0" width="2048" height="1120" />
+    <state x="752" y="264" key="FileChooserDialogImpl" timestamp="1690704577072">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="752" y="257" key="FileChooserDialogImpl/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690005217793" />
+    <state x="752" y="264" key="FileChooserDialogImpl/0.0.2048.1152/2560.347.1536.864@0.0.2048.1152" timestamp="1690704577072" />
     <state width="1995" height="283" key="GridCell.Tab.0.bottom" timestamp="1690297073892">
       <screen x="0" y="0" width="2048" height="1120" />
     </state>
@@ -221,13 +232,17 @@
     <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
     <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1688824223762" />
     <state width="1995" height="283" key="GridCell.Tab.0.right/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690297073892" />
-    <state x="349" y="78" key="SettingsEditor" timestamp="1690004846143">
+    <state x="349" y="78" key="SettingsEditor" timestamp="1690722743307">
       <screen x="0" y="0" width="2048" height="1120" />
     </state>
     <state x="262" y="58" key="SettingsEditor/0.0.1536.827@0.0.1536.827" timestamp="1686929895834" />
     <state x="262" y="58" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1687788612143" />
-    <state x="349" y="78" key="SettingsEditor/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690004846143" />
+    <state x="349" y="78" key="SettingsEditor/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690722743307" />
     <state x="349" y="78" key="SettingsEditor/0.0.2048.1122/2560.347.1536.834@0.0.2048.1122" timestamp="1690003312159" />
+    <state x="517" y="224" key="Vcs.Push.Dialog.v2" timestamp="1690467483401">
+      <screen x="0" y="0" width="2048" height="1120" />
+    </state>
+    <state x="517" y="224" key="Vcs.Push.Dialog.v2/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690467483401" />
     <state x="846" y="314" key="refactoring.ChangeSignatureDialog" timestamp="1689689857189">
       <screen x="0" y="0" width="2048" height="1120" />
     </state>
