@@ -21,12 +21,14 @@
   <component name="ChangeListManager">
     <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_common_standard_library/Time/0.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_common_standard_library/Time/1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_common_standard_library/Time/2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_common_standard_library/Time/3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +72,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Go\src\go_core_programming" />
       <recent name="E:\Project\Go\src\go_library\grpc\proto\1" />
       <recent name="E:\Project\Go\src\go_library\grpc\proto" />
       <recent name="E:\Project\Go\src\go_library\grpc\proto\proto" />
       <recent name="E:\Project\Go\src\go_design_pattern" />
-      <recent name="E:\Project\Go\src\go_design_pattern\creator" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build Go/go_library/grpc/grpc_server">
@@ -232,13 +234,13 @@
     <state width="1478" height="200" key="GridCell.Tab.0.right/0.0.1536.827@0.0.1536.827" timestamp="1687082745546" />
     <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1688824223762" />
     <state width="1995" height="283" key="GridCell.Tab.0.right/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690297073892" />
-    <state x="349" y="78" key="SettingsEditor" timestamp="1690722743307">
-      <screen x="0" y="0" width="2048" height="1120" />
+    <state x="349" y="78" key="SettingsEditor" timestamp="1691068908919">
+      <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="262" y="58" key="SettingsEditor/0.0.1536.827@0.0.1536.827" timestamp="1686929895834" />
     <state x="262" y="58" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1687788612143" />
     <state x="349" y="78" key="SettingsEditor/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690722743307" />
-    <state x="349" y="78" key="SettingsEditor/0.0.2048.1122/2560.347.1536.834@0.0.2048.1122" timestamp="1690003312159" />
+    <state x="349" y="78" key="SettingsEditor/0.0.2048.1122/2560.347.1536.834@0.0.2048.1122" timestamp="1691068908919" />
     <state x="517" y="224" key="Vcs.Push.Dialog.v2" timestamp="1690467483401">
       <screen x="0" y="0" width="2048" height="1120" />
     </state>
