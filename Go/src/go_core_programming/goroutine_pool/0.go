@@ -4,7 +4,7 @@
 每个Worker执行完任务之后，放回Pool的队列中等待。
 */
 
-package goroutine_pool
+package main
 
 import (
 	"errors"
@@ -55,7 +55,7 @@ type Worker struct {
 	// task is a job should be done.
 	task chan f
 
-	// recycleTime will be update when putting a worker back into queue.
+	// recycleTime will be updated when putting a worker back into queue.
 	recycleTime time.Time
 }
 
@@ -79,7 +79,7 @@ func (w *Worker) run() {
 
 const DefaultCleanIntervalTime = 10
 
-// NewPool generates a instance of ants pool
+// NewPool generates an instance of ants pool
 func NewPool(size int) (*Pool, error) {
 	return NewTimingPool(size, DefaultCleanIntervalTime)
 }
@@ -90,7 +90,7 @@ var (
 	ErrPoolClosed        = errors.New("pool is closed")
 )
 
-// NewTimingPool generates a instance of ants pool with a custom timed task
+// NewTimingPool generates an instance of ants pool with a custom timed task
 func NewTimingPool(size, expiry int) (*Pool, error) {
 	if size <= 0 {
 		return nil, ErrInvalidPoolSize
@@ -111,7 +111,7 @@ func NewTimingPool(size, expiry int) (*Pool, error) {
 	return p, nil
 }
 
-// Submit submit a task to pool
+// Submit a task to pool
 func (p *Pool) Submit(task f) error {
 	if len(p.release) > 0 {
 		return ErrPoolClosed
@@ -122,7 +122,7 @@ func (p *Pool) Submit(task f) error {
 	return nil
 }
 
-// getWorker returns a available worker to run the tasks.
+// getWorker returns an available worker to run the tasks.
 func (p *Pool) getWorker() *Worker {
 	var w *Worker
 	// 标志变量，判断当前正在运行的worker数量是否已到达Pool的容量上限

@@ -8,7 +8,7 @@ import (
 	"math/rand"
 )
 
-//done接收通知退出信号
+// GenerateIntA4 done接收通知退出信号
 func GenerateIntA4(done chan struct{}) chan int {
 	ch := make(chan int, 5)
 	go func() {
@@ -26,7 +26,7 @@ func GenerateIntA4(done chan struct{}) chan int {
 	return ch
 }
 
-//done接收通知退出信号
+// GenerateIntB4 done接收通知退出信号
 func GenerateIntB4(done chan struct{}) chan int {
 	ch := make(chan int, 10)
 	go func() {
@@ -44,7 +44,7 @@ func GenerateIntB4(done chan struct{}) chan int {
 	return ch
 }
 
-// 通过select执行扇入（Fan in )操作
+// GenerateInt 通过select执行扇入（Fan in )操作
 func GenerateInt(done chan struct{}) chan int {
 	ch := make(chan int)
 	send := make(chan struct{})
@@ -80,4 +80,3 @@ func main() {
 	done <- struct{}{}
 	fmt.Println("stop generate")
 }
-

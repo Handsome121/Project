@@ -16,6 +16,7 @@ func GenerateIntA1() chan int {
 	}()
 	return ch
 }
+
 func main() {
 	ch := GenerateIntA1()
 	for {

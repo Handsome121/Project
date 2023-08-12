@@ -9,7 +9,7 @@ func main() {
 		for i := 1; i <= 3; i++ {
 			ch <- i // 向通道发送数据
 		}
-		//close(ch) // 关闭通道
+		close(ch) // 关闭通道->如果不关闭的话会造成死锁
 	}()
 
 	for num := range ch {

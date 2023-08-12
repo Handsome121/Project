@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="02b43001-971b-4298-bdc8-62d9e072f125" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Go/.idea/Go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/.idea/Go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/src/go_core_programming/Concurrent/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/src/go_core_programming/Concurrent/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/src/go_core_programming/goroutine_pool/0.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/src/go_core_programming/goroutine_pool/0.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/OpenAI/openai-quickstart-python" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OpenAI/openai-quickstart-python/.env.example" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +30,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2SyTwpkocKdZ3jRuv8IpofWnavb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Project/Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.0">
+    <configuration name="0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douyin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douyin/0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,10 +98,12 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0" />
         <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -74,31 +116,18 @@
       <updated>1690118061561</updated>
       <workItem from="1690118064515" duration="596000" />
       <workItem from="1690813085222" duration="234000" />
+      <workItem from="1691299023022" duration="5000" />
+      <workItem from="1691300350620" duration="49000" />
+      <workItem from="1691300410462" duration="332000" />
+      <workItem from="1691303705362" duration="5720000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="2005" height="301" key="GridCell.Tab.0.bottom" timestamp="1690813320838">
-      <screen x="0" y="0" width="2048" height="1120" />
-    </state>
-    <state width="2005" height="301" key="GridCell.Tab.0.bottom/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690813320838" />
-    <state width="2005" height="301" key="GridCell.Tab.0.center" timestamp="1690813320838">
-      <screen x="0" y="0" width="2048" height="1120" />
-    </state>
-    <state width="2005" height="301" key="GridCell.Tab.0.center/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690813320838" />
-    <state width="2005" height="301" key="GridCell.Tab.0.left" timestamp="1690813320838">
-      <screen x="0" y="0" width="2048" height="1120" />
-    </state>
-    <state width="2005" height="301" key="GridCell.Tab.0.left/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690813320838" />
-    <state width="2005" height="301" key="GridCell.Tab.0.right" timestamp="1690813320838">
-      <screen x="0" y="0" width="2048" height="1120" />
-    </state>
-    <state width="2005" height="301" key="GridCell.Tab.0.right/0.0.2048.1120/2560.347.1536.834@0.0.2048.1120" timestamp="1690813320838" />
+    <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$0.coverage" NAME="0 Coverage Results" MODIFIED="1691310774077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin" />
     <SUITE FILE_PATH="coverage/Python$1.coverage" NAME="1 Coverage Results" MODIFIED="1690813282389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
   </component>
 </project>

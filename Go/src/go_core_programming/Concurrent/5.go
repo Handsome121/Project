@@ -18,6 +18,7 @@ func chain(in chan int) chan int {
 	}()
 	return out
 }
+
 func main() {
 	in := make(chan int)
 	// 初始化参数

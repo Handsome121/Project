@@ -1,9 +1,9 @@
-//有时希望生成器能够自动退出，可以借助Go通道的退出通知机制（close channel to broadcast）实现。
+// 有时希望生成器能够自动退出，可以借助Go通道的退出通知机制（close channel to broadcast）实现。
 package main
 
 import (
-"fmt"
-"math/rand"
+	"fmt"
+	"math/rand"
 )
 
 func GenerateIntA3(done chan struct{}) chan int {
