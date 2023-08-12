@@ -23,81 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Go.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/10.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/10.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/3.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/4.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/5.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/6.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/6.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/7.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/7.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_core_programming/Concurrent/9.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/Concurrent/9.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_core_programming/goroutine_pool/0.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_core_programming/goroutine_pool/0.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/1_client.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/1_client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_client/2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/1_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/1_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_server/2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/1.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/proto/1.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/2.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/2.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/proto/2_grpc.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/protobuf.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_library/grpc/grpc_client_channel/0.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_library/grpc/grpc_client_channel/0.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/OpenAI/账号密码.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/demo02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/ArrayDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/ArrayDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/ForStrong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/IfElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/StringDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/Test06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/TestMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/basic/While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/object/TestMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/out/production/demo02/com/object/TestVoidMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/ArrayDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/ArrayDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/DoWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/For.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/ForStrong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/IfElse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/StringDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/Test06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/TestMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/basic/While.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/object/TestMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/demo02/src/com/object/TestVoidMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/.vscode/extensions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/assets/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/assets/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/assets/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/components/TheWelcome.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/components/WelcomeItem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/components/icons/IconCommunity.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/components/icons/IconDocumentation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/components/icons/IconEcosystem.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/components/icons/IconSupport.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/components/icons/IconTooling.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/vue1/vite.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
