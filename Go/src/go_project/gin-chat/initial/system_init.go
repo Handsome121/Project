@@ -2,6 +2,7 @@ package initial
 
 import (
 	"fmt"
+	"github.com/go-redis/redis"
 	"github.com/spf13/viper"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
@@ -11,8 +12,11 @@ import (
 	"time"
 )
 
-var DB *gorm.DB
-var V *viper.Viper
+var (
+	DB  *gorm.DB
+	V   *viper.Viper
+	Red *redis.Client
+)
 
 func InitConfig() {
 	V = viper.New()
@@ -66,4 +70,21 @@ func InitMysql() {
 	// SetConnMaxLifetime 设置了连接可复用的最大时间
 	sqlDB.SetConnMaxLifetime(time.Hour)
 	fmt.Println("success to link mysql")
+}
+
+func InitRedis() {
+	Red = redis.NewClient(&redis.Options{
+		Addr:         V.GetString("redis.addr"),
+		Password:     V.GetString("redis.password"),
+		DB:           V.GetInt("redis.DB"),
+		PoolSize:     V.GetInt("redis.poolSize"),
+		MinIdleConns: V.GetInt("redis.minIdleConn"),
+	})
+
+	pong, err := Red.Ping().Result()
+	if err != nil {
+		fmt.Println("init redis connect failed......", err)
+	}
+	fmt.Println("redis init success......", pong)
+
 }
