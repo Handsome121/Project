@@ -14,7 +14,7 @@ func (*ConcreteComponent) Calc() int {
 	return 0
 }
 
-//乘法修饰器
+// MulDecorator 乘法修饰器
 type MulDecorator struct {
 	Component
 	num int
@@ -31,7 +31,7 @@ func NewMulDecorator(c Component, data int) *MulDecorator {
 	}
 }
 
-//加法修饰器
+// AddDecorator 加法修饰器
 type AddDecorator struct {
 	Component
 	num int

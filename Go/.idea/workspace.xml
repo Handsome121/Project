@@ -24,25 +24,45 @@
   <component name="ChangeListManager">
     <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_expert_programming/concurrency/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_expert_programming/concurrency/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_design_pattern/creator/1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_design_pattern/creator/2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_design_pattern/creator/3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_design_pattern/creator/4.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_design_pattern/structor/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_design_pattern/structor/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_design_pattern/structor/2.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_design_pattern/structor/2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/10.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/11.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/12.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/13.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/14.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/15.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/16.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/17.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/18.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/19.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/20.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/21.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/22.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/23.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/24.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/25.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/26.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/27.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/28.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/29.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/4.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/5.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/6.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/7.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/8.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/9.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/init/lib1/lib01.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/init/lib2/lib02.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang/init/main.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/01初识Vue/初识Vue.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/02模板语法/模板语法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/03数据绑定/数据绑定.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/04el与data的两种写法/el与data的两种写法.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/05MVVM模型/mvvm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/06数据代理/Object.defineProperty.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/06数据代理/vue中的数据代理.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/07事件的基本使用/事件.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/07事件的基本使用/事件修饰符.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/07事件的基本使用/键盘事件.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/08计算属性/姓名案例_method实现.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/08计算属性/姓名案例_插值语法实现.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/08计算属性/姓名案例_计算属性实现.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/08计算属性/姓名案例_计算属性简写.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/09监视属性/天气案例.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/js/vue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vue/js/vue.min.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -21,6 +21,7 @@ func getInstance(i int) *SingleData {
 	})
 	return data
 }
+
 func main() {
 	i1 := getInstance(1)
 	fmt.Println(i1)
@@ -32,6 +33,3 @@ func main() {
 		fmt.Println("不是单例模式")
 	}
 }
-
-
-

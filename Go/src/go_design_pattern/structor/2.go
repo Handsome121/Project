@@ -8,6 +8,7 @@ import "fmt"
 type Subject interface {
 	Do() string
 }
+
 type RealSubject struct{}
 
 func (r *RealSubject) Do() string {
@@ -26,9 +27,9 @@ func (p *ProxySubject) Do() string {
 		return "费用不足，请充值"
 	}
 }
-func main()  {
+func main() {
 	var sub Subject
-	sub=&ProxySubject{
+	sub = &ProxySubject{
 		RealSubject: RealSubject{},
 		money:       10,
 	}
