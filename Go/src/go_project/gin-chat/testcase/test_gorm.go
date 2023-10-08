@@ -33,7 +33,7 @@ func main() {
 	sqlDB.SetConnMaxLifetime(time.Hour)
 	fmt.Println("success to link mysql")
 
-	err = db.AutoMigrate(&models.UserBasic{})
+	err = db.AutoMigrate(&models.Message{})
 	if err != nil {
 		panic("auto migrate fail")
 	}

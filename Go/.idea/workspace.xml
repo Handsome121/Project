@@ -24,11 +24,15 @@
   <component name="ChangeListManager">
     <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/config/app.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/config/app.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/initial/system_init.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/initial/system_init.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/router/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/router/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/service/user_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/service/user_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/testcase/test_gorm.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/testcase/test_gorm.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,39 +74,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Project/Go/src/go_project/gin-chat/service&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;sql.code.style.group&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.30260304&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "E:/Project/Go/src/go_library/websocket/client2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "sql.code.style.group",
+    "settings.editor.splitter.proportion": "0.30260304"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Go\src\go_library\websocket\client2" />
       <recent name="E:\Project\Go\src\go_project\gin-chat\service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Go\src\go_library\websocket" />
+      <recent name="E:\Project\Go\src\go_library\websocket\server" />
       <recent name="E:\Project\Go\src\go_project\gin-chat\initial" />
       <recent name="E:\Project\Go\src\go_core_programming" />
       <recent name="E:\Project\Go\src\go_library\grpc\proto\1" />
-      <recent name="E:\Project\Go\src\go_library\grpc\proto" />
-      <recent name="E:\Project\Go\src\go_library\grpc\proto\proto" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go Build.go build Go/go_library/websocket">
+    <configuration name="go build 1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/go_library/websocket/1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Go/go_library/websocket" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <kind value="FILE" />
+      <package value="Go/go_library/websocket" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/go_library/websocket/2.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build gin-chat" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$/src/go_project/gin-chat" />
@@ -129,23 +151,6 @@
       <filePath value="$PROJECT_DIR$/src/go_project/gin-chat/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build notice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$/src/notice" />
-      <kind value="FILE" />
-      <package value="notice" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/notice/5.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build system_init.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$/src/go_project/gin-chat" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/go_project/gin-chat/utils/system_init.go" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="SwaggerCodegen">
       <option name="customTemplatesPath" value="" />
       <option name="generateToPath" value="C:\Users\未来我来\gen" />
@@ -160,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build notice" />
-        <item itemvalue="Go Build.go build gin-chat" />
+        <item itemvalue="Go Build.go build Go/go_library/websocket" />
+        <item itemvalue="Go Build.go build 1.go" />
         <item itemvalue="Go Build.go build gin-chat/testcase" />
-        <item itemvalue="Go Build.go build system_init.go" />
+        <item itemvalue="Go Build.go build gin-chat" />
+        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>

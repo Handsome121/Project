@@ -11,7 +11,7 @@ func main() {
 	initial.InitRedis()
 
 	r := router.Router()
-	err := r.Run()
+	err := r.Run(":8081")
 	if err != nil {
 		return
 	}

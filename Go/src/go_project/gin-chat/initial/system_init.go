@@ -2,8 +2,9 @@ package initial
 
 import (
 	"fmt"
-	"github.com/go-redis/redis"
+	"github.com/go-redis/redis/v8"
 	"github.com/spf13/viper"
+	"golang.org/x/net/context"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
@@ -81,10 +82,25 @@ func InitRedis() {
 		MinIdleConns: V.GetInt("redis.minIdleConn"),
 	})
 
-	pong, err := Red.Ping().Result()
-	if err != nil {
-		fmt.Println("init redis connect failed......", err)
-	}
-	fmt.Println("redis init success......", pong)
+	fmt.Println("redis init success......")
 
+}
+
+const (
+	PublishKey = "websocket"
+)
+
+func Publish(ctx context.Context, channel string, msg string) error {
+	var err error
+	err = Red.Publish(ctx, channel, msg).Err()
+
+	return err
+}
+
+func Subscribe(ctx context.Context, channel string) (string, error) {
+	sub := Red.Subscribe(ctx, channel)
+	msg, err := sub.ReceiveMessage(ctx)
+	fmt.Println("Subscribe......", sub)
+
+	return msg.Payload, err
 }

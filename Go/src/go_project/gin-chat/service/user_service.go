@@ -2,12 +2,16 @@ package service
 
 import (
 	"fmt"
+	"gin-chat/initial"
 	"gin-chat/models"
 	"gin-chat/utils"
 	"github.com/asaskevich/govalidator"
 	"github.com/gin-gonic/gin"
+	"github.com/gorilla/websocket"
 	"math/rand"
+	"net/http"
 	"strconv"
+	"time"
 )
 
 // GetUserList
@@ -160,4 +164,41 @@ func UpdateUser(c *gin.Context) {
 	c.JSON(200, gin.H{
 		"message": "更新用户成功",
 	})
+}
+
+// 防止跨域站点伪造请求
+var upGrade = websocket.Upgrader{
+	CheckOrigin: func(r *http.Request) bool {
+		return true
+	},
+}
+
+func SendMsg(c *gin.Context) {
+	ws, err := upGrade.Upgrade(c.Writer, c.Request, nil)
+	if err != nil {
+		fmt.Println("upgrade error ", err)
+		return
+	}
+	defer func(ws *websocket.Conn) {
+		err = ws.Close()
+		if err != nil {
+			fmt.Println(err)
+		}
+	}(ws)
+	MsgHandler(ws, c)
+}
+
+func MsgHandler(ws *websocket.Conn, c *gin.Context) {
+	msg, err := initial.Subscribe(c, initial.PublishKey)
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	tm := time.Now().Format("2006-01-02 15:04:05")
+	m := fmt.Sprintf("[ws][%s]:%s", tm, msg)
+	fmt.Println(m)
+	err = ws.WriteMessage(1, []byte(m))
+	if err != nil {
+		fmt.Println(err)
+	}
 }

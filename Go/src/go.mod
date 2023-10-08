@@ -4,13 +4,16 @@ go 1.16
 
 require (
 	github.com/astaxie/beego v1.12.3
-	github.com/go-playground/locales v0.14.1 // indirect
-	github.com/go-playground/universal-translator v0.18.1 // indirect
-	github.com/go-playground/validator/v10 v10.14.1 // indirect
+	github.com/fsnotify/fsnotify v1.6.0
+	github.com/go-playground/locales v0.14.1
+	github.com/go-playground/universal-translator v0.18.1
+	github.com/go-playground/validator/v10 v10.14.1
 	github.com/go-sql-driver/mysql v1.6.0
+	github.com/gorilla/websocket v1.5.0
 	github.com/pelletier/go-toml/v2 v2.0.9 // indirect
 	github.com/smartystreets/goconvey v1.7.2
-	github.com/spf13/viper v1.16.0 // indirect
+	github.com/spaolacci/murmur3 v0.0.0-20180118202830-f09979ecbc72
+	github.com/spf13/viper v1.16.0
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/zap v1.24.0
 	golang.org/x/net v0.12.0 // indirect
