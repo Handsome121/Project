@@ -1,4 +1,0 @@
-{"level":"INFO","ts":"2023-07-23T12:16:24.115+0800","caller":"zaplog/log.go:54","msg":"hello"}
-{"level":"INFO","ts":"2023-07-23T14:20:59.752+0800","caller":"zaplog/log.go:52","msg":"hello"}
-{"level":"INFO","ts":"2023-07-23T14:21:11.861+0800","caller":"zaplog/log.go:54","msg":"hello"}
-{"level":"INFO","ts":"2023-07-23T14:21:21.748+0800","caller":"zaplog/log.go:52","msg":"hello"}

@@ -202,3 +202,7 @@ func MsgHandler(ws *websocket.Conn, c *gin.Context) {
 		fmt.Println(err)
 	}
 }
+
+func SendUsrMsg(c *gin.Context) {
+	models.Chat(c.Writer, c.Request)
+}

@@ -4,6 +4,7 @@
       <w>benchmem</w>
       <w>benchtime</w>
       <w>gomaxprocs</w>
+      <w>recv</w>
     </words>
   </dictionary>
 </component>
