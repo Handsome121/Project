@@ -23,42 +23,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48903bde-1d3e-4af2-8e46-fec85c388540" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Go.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blockchain/0.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/distributed_system/balance/consistance_hash.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/distributed_system/balance/polling.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/distributed_system/balance/random.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/distributed_system/balance/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/distributed_system/balance/weighted_smooth_polling.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/distributed_system/balance/weighting.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_interface/1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/models/message.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/models/message.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/router/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/router/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_project/gin-chat/service/user_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_project/gin-chat/service/user_service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_project/golang-IM-System/client" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_project/golang-IM-System/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_project/golang-IM-System/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_project/golang-IM-System/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_project/golang-IM-System/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview/5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notice/1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notice/2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notice/3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notice/4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notice/5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notice/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/zaplog_test/log.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/.idea/Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_common_standard_library/reflect/1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_common_standard_library/reflect/1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_interview/1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_interview/2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_interview/3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_interview/4.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_interview/5.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/OpenAI/openai-quickstart-python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/douyin/0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/douyin/1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/douyin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/baiobai.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/01初识Vue/初识Vue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/02模板语法/模板语法.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/03数据绑定/数据绑定.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/04el与data的两种写法/el与data的两种写法.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/05MVVM模型/mvvm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/06数据代理/Object.defineProperty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/06数据代理/vue中的数据代理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/07事件的基本使用/事件.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/07事件的基本使用/事件修饰符.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/07事件的基本使用/键盘事件.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/08计算属性/姓名案例_method实现.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/08计算属性/姓名案例_插值语法实现.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/08计算属性/姓名案例_计算属性实现.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/08计算属性/姓名案例_计算属性简写.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/09监视属性/天气案例监视属性.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/09监视属性/天气案例缩写.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/js/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/基础/js/vue.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue/工程/app/vue.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,11 +132,11 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Project/Go/src/go_library/websocket/client2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Project/Go&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;sql.code.style.group&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.30260304&quot;
   }
 }</component>
@@ -126,29 +146,21 @@
       <recent name="E:\Project\Go\src\go_project\gin-chat\service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Go\src\go_interview\task_scheduler" />
       <recent name="E:\Project\Go\src\go_library\websocket" />
       <recent name="E:\Project\Go\src\go_library\websocket\server" />
       <recent name="E:\Project\Go\src\go_project\gin-chat\initial" />
       <recent name="E:\Project\Go\src\go_core_programming" />
-      <recent name="E:\Project\Go\src\go_library\grpc\proto\1" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build redis">
-    <configuration name="go build 1.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$/src" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/go_library/jwt/1.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build Go/go_library/jwt" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build Go/go_common_standard_library/reflect">
+    <configuration name="go build Go/go_common_standard_library/reflect" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <kind value="PACKAGE" />
-      <package value="Go/go_library/jwt" />
+      <package value="Go/go_common_standard_library/reflect" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/go_library/jwt/1.go" />
+      <filePath value="$PROJECT_DIR$/src/go_common_standard_library/reflect/1.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build Go/go_library/redis" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -160,14 +172,6 @@
       <filePath value="$PROJECT_DIR$/src/go_library/redis/0.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$/src/go_project/gin-chat" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/go_project/gin-chat/main.go" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build redis" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$/src/go_library/redis" />
@@ -175,6 +179,30 @@
       <package value="redis" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/src/go_library/redis/0.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestIDUniqueness in Go/go_interview/distribute_id" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src/go_interview/distribute_id" />
+      <root_directory value="$PROJECT_DIR$/src" />
+      <kind value="PACKAGE" />
+      <package value="Go/go_interview/distribute_id" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestIDUniqueness\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewIDGeneratorWithValidMachineID in Go/go_interview/distribute_id" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$/src/go_interview/distribute_id" />
+      <root_directory value="$PROJECT_DIR$/src" />
+      <kind value="PACKAGE" />
+      <package value="Go/go_interview/distribute_id" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestNewIDGeneratorWithValidMachineID\E$" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="SwaggerCodegen">
@@ -191,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Go/go_common_standard_library/reflect" />
+        <item itemvalue="Go Test.TestIDUniqueness in Go/go_interview/distribute_id" />
+        <item itemvalue="Go Test.TestNewIDGeneratorWithValidMachineID in Go/go_interview/distribute_id" />
         <item itemvalue="Go Build.go build redis" />
         <item itemvalue="Go Build.go build Go/go_library/redis" />
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build 1.go (1)" />
-        <item itemvalue="Go Build.go build Go/go_library/jwt" />
       </list>
     </recent_temporary>
   </component>
